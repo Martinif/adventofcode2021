@@ -1,0 +1,7 @@
+[package]
+name = "aoc"
+version = "0.2.0"
+authors = ["Martin Pletl <github@martin.pletl.eu>"]
+edition = "2021"
+
+[dependencies]

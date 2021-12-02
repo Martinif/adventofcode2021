@@ -1,0 +1,6 @@
+# Cargo
+debug/
+target/
+
+# CLion
+.idea/
